@@ -6,5 +6,6 @@
 # Like to work in React JS and Java Spring Boot based assignments. I am familiar with microservices architecture.
 # I am available for part time assignments and commit 12-15 hours per week considering that the assigments are remote / work from home type.
 #
+# I can be reached on my email: jobsforrajaram@gmail.com
 # look forward to collaborate with your team.
 
